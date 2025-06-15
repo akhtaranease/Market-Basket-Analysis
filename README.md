@@ -1,6 +1,6 @@
-# Save the README content to a markdown file for the user to download
 
-readme_content = """# 🛒 Market Basket Analysis Using Apriori
+
+## Market Basket Analysis Using Apriori
 
 This project uses association rule mining to uncover frequent item combinations from customer transaction data.  
 The goal is to help retailers identify product bundling opportunities, improve store layout, and drive cross-sell strategies.
